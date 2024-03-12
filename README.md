@@ -1,6 +1,6 @@
 # Respostas do Desafio Target
 
-OBS: Códigos fonte das questões 2 e 5 estão da pasta Desafios-01-02-03
+OBS: Códigos fonte das questões 2 e 5 estão da pasta Desafios-01-02-05
 
 1) Resposta = 91
 
